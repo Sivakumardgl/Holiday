@@ -1,0 +1,86 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "Email": "siva@gmail.com"
+    },
+    {
+      "id": "48b7",
+      "name": "wergh",
+      "email": "fgh@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "1210",
+      "name": "sivakumar",
+      "email": "siva@gmail.com",
+      "password": "883891"
+    },
+    {
+      "id": "0df1",
+      "name": "kishal",
+      "email": "k@gmail.com",
+      "password": "1432"
+    },
+    {
+      "id": "d20e",
+      "name": "kumar",
+      "email": "kumar77gmail.ocm",
+      "password": "883891"
+    },
+    {
+      "id": "4bcb",
+      "name": "bkkkk",
+      "email": "tyuio@gmail.com",
+      "password": "987665"
+    },
+    {
+      "id": "9940",
+      "name": "sasi",
+      "email": "sasi@gmail.com",
+      "password": "8888"
+    },
+    {
+      "id": "bc00",
+      "name": "whkhs",
+      "email": "sjhwa",
+      "password": "wajllw"
+    },
+    {
+      "id": "0a54",
+      "name": "hwhwe",
+      "email": "jfwhejew",
+      "password": "skjehjwe"
+    },
+    {
+      "id": "b94d",
+      "name": "euihquq",
+      "email": "jkth4t",
+      "password": "j2h2"
+    },
+    {
+      "id": "f889",
+      "name": "hwuouwieu",
+      "email": "wiuwe",
+      "password": "ifweiuiiw"
+    },
+    {
+      "id": "b819",
+      "name": "skjrh",
+      "email": "kjhw",
+      "password": "lkwjkw"
+    },
+    {
+      "id": "26cf",
+      "name": "hdfsjlf",
+      "email": "ehse",
+      "password": "wekll"
+    },
+    {
+      "id": "11e7",
+      "name": "hsgh",
+      "email": "akjh",
+      "password": "djld"
+    }
+  ]
+}
