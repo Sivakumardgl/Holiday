@@ -5,7 +5,7 @@ ul
   display: flex;
   align-items: center;
   height: 70px;
-  background-color: blueviolet;
+  background-color: brown;
   text-align: center;
   list-style: none;
   
@@ -34,12 +34,71 @@ div nav ul{
 
   text-align: center;
 }
+.Home{
+  margin-top: 10px;
+  padding: 0px;
+  height: 10px;
+  width: 8rem;
+}
 .signup {
+  background-color: rgb(187, 116, 116);
   max-width: 600px;
   margin: 0 auto;
   padding: 20px;
 }
 
+#register{
+  color: white;
+}
+#update{
+  color:black;
+}
+.active{
+  background-color: #fff;
+  color: black;
+}
+#ab{
+  color: black;
+  background-color: rgb(138, 128, 128);
+}
+#holiday{
+  height: 300px;
+  width: 200px;
+}
+.admin,th{
+  color: black;
+  text-align: center;
+}
+.admin{
+  background-color: rgb(67, 97, 67);
+  
+
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.admin,h1{
+  color: white;
+}
+.login{
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: orange;
+}
+.book,h1{
+  color: black;
+
+}
+.form1{
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: rgb(102, 102, 29);
+}
+.admin,h1{
+  text-align: center;
+}
 form {
   margin-bottom: 20px;
 }

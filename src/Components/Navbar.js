@@ -6,12 +6,13 @@ export default function Navbar() {
     <div>
       <nav>
          <ul>
-        <li><Link to='/'>Home</Link></li>
-        <li><Link to='/about'>About</Link></li>
-        <li><Link to='/booking'>Booking</Link></li>
-        <li><Link to='/user'>User</Link></li>
-        <li><Link to='/signup'>Signup</Link></li>
-        <li><Link to='/login'>Login</Link></li>
+        <li><NavLink to='/'>Home</NavLink></li>
+        <li><NavLink to='/about'>About</NavLink></li>
+        <li><NavLink to='/order'>Booking</NavLink></li>
+        {/* <li><Link to='/user'>User</Link></li> */}
+        <li><NavLink to='/signu'>Signup</NavLink></li>
+        <li><NavLink to='/login'>Login</NavLink></li>
+        <li><NavLink to='/admin'>Admin</NavLink></li>
        
         </ul>
         </nav>

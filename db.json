@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "b7f9",
+      "name": "fhfhgfgh",
+      "email": "hkhkhk",
+      "password": "hkhkhkh77khj"
+    },
+    {
+      "id": "a4d0",
+      "name": "ramkumar",
+      "email": "ram@45gmail.com",
+      "password": "ram76"
+    },
+    {
+      "id": "1be8",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "8b39",
+      "name": "vasanth",
+      "email": "vasa@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

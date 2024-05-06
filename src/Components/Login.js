@@ -13,7 +13,7 @@ export default function Login() {
   // const
   useEffect(() => {
     axios
-      .get("http://localhost:2001/students")
+      .get("http://localhost:4001/students")
       .then((x) => {
         setData(x.data);
       })
@@ -37,9 +37,9 @@ export default function Login() {
   };
 
   return (
-    <div>
+    <div className="login">
       <form onSubmit={handleSubmit}>
-        <h1>Login page</h1>
+        <h1>LOGIN PAGE</h1>
         <label>email:</label>
         <input type="text" onChange={(e)=>setemail(e.target.value)} />
         <br />
